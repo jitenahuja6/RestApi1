@@ -47,6 +47,7 @@ public class Alien implements Serializable
 		return "Alien [name=" + name + ", points=" + points + ", id=" + id + "]";
 	}
 	Checking git merge
+	checking branch 1
 	
 	
 }
